@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài 2</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="header">
+        <span class="item">
+            <img class="img1" src="https://scontent.fhph1-1.fna.fbcdn.net/v/t39.30808-6/343431541_787273575992880_6950198603748680694_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=f_ttZPWrVx4AX8SKfAo&_nc_ht=scontent.fhph1-1.fna&oh=00_AfBB9I-r8N04botfDwclr5TLqBGFDgfyFYeENkwwmL6-Aw&oe=64E7DD20" alt="" width="30">
+        </span>
+        <span class="hd">Home</span>
+        <span class="hd">About us</span>
+        <span class="hd">Blogs</span>
+        <span class="hd">Menu</span>
+        <span class="hd">Contact</span>
+        <span class="item item2">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </span>
+    </div>
+    <div class="banner">
+        <img class="img2" src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/368224007_845522960729524_5316070206891685979_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=v9XBrTYJwqUAX_Ie052&_nc_ht=scontent.fhph1-2.fna&oh=00_AfBFtxWAqljtJ097POckK6XF0FURgFa-2-K8wI04qkXTlQ&oe=64E75D7A" alt="">
+    </div>
+    <div class="content">
+        <div class="ct ct1">
+            DANH SÁCH CÁC LỚP HỌC PUBLIC CỦA HIT NĂM 2023
+        </div>
+        <div class="flex-container">
+            <div class="hop-item">
+                <div class="hop">
+                    <img class="img3" src="https://codelearn.io/Media/Default/Users/UaenaClown99/Markdown/HTML-icon.png" alt="" width="150px" >
+                </div> 
+                <div class="hop2">
+                    <br>
+                    <p>LỚP WEB</p>
+                    <p>Thời gian: 6h - 8h</p>
+                    <p>Thứ: 2</p>
+                </div>
+            </div>
+            <div class="hop-item">
+                <div class="hop">
+                    <img class="img3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="" width="80px" >
+                </div> 
+                <div class="hop2">
+                    <p>LỚP OOP</p>
+                    <p>Thời gian: 6h - 8h</p>
+                    <p>Thứ: 3, 5, 6, 7</p>
+                </div>
+            </div>
+            <div class="hop-item">
+                <div class="hop">
+                    <img class="img3" src="https://banner2.cleanpng.com/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg" alt="" width="80px" >
+                </div> 
+                <div class="hop2">
+                    <br>
+                    <p>LỚP PYTHON</p>
+                    <p>Thời gian: 6h - 8h</p>
+                    <p>Thứ: 3</p>
+                </div>
+            </div>
+            <div class="hop-item">
+                <div class="hop">
+                    <img class="img3" src="https://i2.wp.com/timoday.edu.vn/wp-content/uploads/2020/01/java.jpg?resize=256%2C245&ssl=1?v=1641581387" alt="" width="100px" >
+                </div> 
+                <div class="hop2">
+                    <p>LỚP JAVA</p>
+                    <p>Thời gian: 6h - 8h</p>
+                    <p>Thứ: 4</p>
+                </div>
+            </div>
+            <div class="hop-item">
+                <div class="hop">
+                    <img class="img3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="" width="80px" >
+                </div> 
+                <div class="hop2">
+                    <p>LỚP ĐỒ HỌA CƠ BẢN</p>
+                    <p>Thời gian: 6h - 8h</p>
+                    <p>Thứ: Chủ nhật</p>
+                </div>
+            </div>
+        </div>
+        <div class="ct ct2">
+            SỰ KIỆN CỦA HIT
+        </div>
+        <div class="flex-container">
+            <div class="box">
+                <img class="img3" src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/364140964_831545942127226_4612099346216929698_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MA8HrbczbN0AX-Xfo2v&_nc_ht=scontent.fhph1-2.fna&oh=00_AfAaE8L4ZYDb80emUokfvnHCHFpaUDW12ozV8taHGyeNyg&oe=64E66163" alt="" width="470px">
+            </div>
+            <div class="box box2">
+                <p><b>🎂SINH NHẬT TUỔI 13 CLB TIN HỌC HIT🎂</b></p>
+                <br>
+                <p>📽18/08/2010 - 18/08/2023📽</p>
+                <p>🌀13 NĂM - KẾT SỨC MẠNH, NỐI THÀNH CÔNG🌀</p>
+                <p>⏳Mới đó mà đã 13 năm trôi qua, 🤔liệu cậu có còn nhớ ngày đầu tiên gặp HIT không? Ngày đó HIT trong cậu như thế nào? Và bây giờ HIT đối với cậu là một người bạn, là tình yêu hay là một gia đình? 🌈Trong những tháng ngày tươi đẹp nhất của thanh xuân, chúng ta gặp được HIT, gặp được những người bạn mang trong mình những khát khao và nhiệt huyết của tuổi trẻ, cùng nhau học tập, rèn luyện và vui chơi hết mình.  1️⃣3️⃣ năm truyền lửa đam mê, 1️⃣3️⃣ năm ươm mầm và phát triển, 1️⃣3️⃣ năm một hành trình dài kết nối những trái tim “đầy lửa”, hóa thành nguồn sức mạnh để đi tới thành công. HIT đã trưởng thành và đi lên như thế, nuôi dưỡng biết bao thế hệ, 💘chắp cánh cho những ước mơ bay cao bay xa. 🍃Cứ mỗi năm qua đi, HIT lại đón thêm một tuổi mới, mỗi dịp sinh nhật lại là dịp mà các HITers sum vầy, những hồi ức ùa về trong một ngày cực kỳ đặc biệt. Và để kỉ niệm cho sự kiện trọng đại này, HIT mời cậu lên 🚎chuyến xe ký ức, bắt đầu cuộc hành trình đi tìm lại những câu chuyện cũ còn đọng lại trong tim.</p>
+            </div>
+        </div>
+        <div class="flex-container">
+            <div class="box box2">
+                <p><b>🏃🏻‍♂️RUN WITH US - "Bỏ Bug Lại Sau - Ta Chạy Cùng Nhau" 🏃🏻‍♂️</b></p>
+                <br>
+                <p>😍Tại vì thích em nhiều quá nhưng em lại nói là "à lôi"😍</p>
+                <p>🙈Cũng định solo fix bug cùng với coders nhưng mà thôi🙈</p>
+                <p>👍Để hòa cùng không khí háo hức đón chờ sinh nhật lần thứ 1️⃣3️⃣ của CLB Tin học HIT - "13 NĂM KẾT SỨC MẠNH, NỐI THÀNH CÔNG", CLB phát động phong trào chạy bộ nhằm kết nối các HITers lại với nhau.</p>
+                <p>🍀Hỡi những đôi chân không mỏi, những tinh thần vững vàng, những trái tim cùng nhịp, các bạn đã sẵn sàng cùng nhau🔥 "đốt cháy" lên ngọn đuốc nhiệt huyết của tuổi trẻ chưa nhỉ? 😊Chúng mình sẽ rất vui khi có được sự hưởng ứng và đồng hành của các bạn trong cuộc hành trình vẽ lên con số 13 xinh đẹp này. 🥳Hãy cùng nhau lưu giữ lại những bức ảnh đẹp, những thước phim chân thực và sống động nhất về cuộc hành trình tuyệt vời của bạn trong group HIT - Learning Corner nhé.</p>
+            </div>
+            <div class="box">
+                <img class="img3" src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/364803626_835862181695602_2761009447209300287_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=yteTXC03hU8AX9ZuAdV&_nc_ht=scontent.fhph1-2.fna&oh=00_AfARGUn-FePyFxn-asG47meXqClkw-638QL1nF2GZP5c9Q&oe=64E674DA" alt="" height="470px" width="470px">
+            </div>
+        </div>
+    </div>
+</body>
+<footer>
+    <div class="ft">
+        <div class="text"> 
+            HIT
+        </div>
+        <p class="text-footer">Địa chỉ: Tầng 9, A1, Trường Đại Học Công Nghiệp Hà Nội, Cơ sở 1</p>
+        <p class="text-footer">Facebook: https://www.facebook.com/HITClub.HaUI</p>
+        <p class="text-footer">Gmail: hit.club188@gmail.com</p>
+    </div>
+    
+</footer>
+</html>

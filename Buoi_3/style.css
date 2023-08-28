@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/* p{
+    color: pink;
+}
+div{
+    color: chocolate;
+}
+.hello{
+    color: aqua;
+} */
+
+/* #app{
+    color: orange;
+}
+.container .hello{
+    color: blue;
+}
+.container > .hola{
+    color: chocolate;
+} */
+/* .hello + .hola{
+    color: blue;
+} */
+/* .hello ~ .hola{
+    color: blue;
+} */
+/* .hello:first-child{
+    color: chartreuse;
+}
+.hello:last-child{
+    color:blueviolet
+} */
+/* li:nth-child(2n){
+    color:blue;
+}
+
+li:nth-child(2n+1){ 
+    color:rgb(255, 34, 119);
+}
+.hello:not(.hi){
+    color:rgb(255, 34, 119)
+}
+ .other:hover{
+    background-color: rgb(130, 130, 221);
+}
+  */
+.hello.hi:hover ~ .hola{
+    color:rgb(255, 0, 0)
+}

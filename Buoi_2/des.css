@@ -1,0 +1,71 @@
+.style{
+    background-color: rgb(248, 151, 192);
+
+}
+.box{
+    width: 65%;
+    background-color: rgb(255, 213, 222);
+    background-size: contain;
+    background-position: center;
+    border-radius: 13px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: rgb(255, 86, 157);
+    padding: 30px;
+    margin: 15%;
+}
+.text{
+    font-family: 'Helvetica';
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.color1{
+   color:rgb(25, 144, 255)
+}
+.color2{
+    color:rgb(235, 47, 47)
+}
+.color3{
+    color: rgb(255, 196, 0);
+}
+.color4{
+    color: rgb(16, 185, 16);
+}
+.text.text1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text.text2{
+    font-size: 14px;
+    font-weight: lighter;
+    color:rgb(114, 114, 114);
+}
+
+.button{
+    width: 400px;
+    height:25px;
+    background-color: white;
+    background-position: center;
+    border-radius: 20px;
+    padding-top: 8px;
+    text-decoration: rgb(173, 170, 170);
+    font-family: 'helvetica';
+    font-size: small;
+    margin:auto;
+    margin-top: 10px;   
+}
+.button.button1{
+    padding-left: 15px;
+    color:rgb(114, 114, 114);
+}
+.button.button2{
+    background-color: rgb(255, 157, 203);
+    width: 10%;
+    background-position: center;
+    text-align: center;
+    color:rgb(77, 77, 77);
+    font-weight: bolder;
+}

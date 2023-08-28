@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.box{
+    width:500px;
+    height: 500px;
+    background-color: rgb(255, 137, 137);
+}
+.box2{
+    width:200px;
+    height: 200px;
+    background-color: rgb(169, 245, 118);
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+.header{
+    height: 100px;
+    background-color: goldenrod;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
