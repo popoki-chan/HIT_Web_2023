@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg {
+    background-image: linear-gradient(#d400ff, #e52e71);
+    height: 100vh;   
+}
+
+.box-main {
+    position: fixed;
+    top: 20%;
+    left: 38%;
+    background-color: white;
+    opacity: 30%;
+    width: 300px;
+    height: 330px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+.box-avt {
+    position: fixed;
+    top: 25%;
+    left: 45%;
+    background-color: transparent;
+    opacity: 30%;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px #270117;
+}
+
+.sticker {
+    position:fixed;
+    border-radius: 100%;
+}
+
+.img1 {
+    top: 12px;
+    left: 31%;
+}
+
+.img2 {
+    top: 395px;
+    left: 58%;
+}
+
+.img3 {
+    top: 151px;
+    left: 569px;
+    
+}
+
+.box-icon {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    top: 310px;
+    left: 490px;
+}
+.icon{
+    position: relative;
+    margin: 24px;
+    justify-content:space-evenly;
+}
+
+.box-beside {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    top: 55%;
+    left: 490px;
+} 
+
+.box {
+    position: relative;
+    margin: 15px;
+    justify-content:space-evenly;
+    background-color: transparent;
+    opacity: 30%;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px #270117;
+} 
+
+button {
+    position: relative;
+    top: 380px;
+    left: 510px;
+    background-color:transparent;
+    width: 100px;
+    height: 40px;
+    border-color: transparent;
+    border-radius: 7px;
+    box-shadow: 0px 0px 15px #867878;
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.text-box {
+    position: relative;
+    top: 220px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.txt1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.txt2 {
+    font-size: 14px;
+    text-align: center;
+}

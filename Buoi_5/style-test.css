@@ -6,20 +6,23 @@
 .header{
     display:flex;
     background-color: black;
-    opacity: 50%;
+    opacity: 70%;
     height: 70px;
     position: fixed;
     left: 0;
     right: 0;
-    justify-content: space-around ;
+    justify-content: flex-end ;
+    padding-right: 70px;
 }
 .text{
-   
     flex-direction: row;
     color:white;
-    
     margin: 20px;
-    
+    padding-top: 5px;
+}
+.text1 {
+    position: fixed;
+    right: 80%;
 }
 .text2{
     opacity: 70%;
@@ -28,19 +31,40 @@
     opacity: 100%;
 }
 .bg{
-    background-color: rgb(250, 111, 56);
+    background-image: linear-gradient(#a600e7, #eb1fbf);
     height: 100vh;
 }
 .text-bg{
+    position: absolute;
+    top: 30%;
+    text-align: center;
     font-weight: bolder;
     color: white;
     position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .text-bg1{
-    font-size: 70px;
+    font-size: 90px;
 }
-.button{
-    background-color: rgb(238, 0, 99);
+
+.text-bg2 {
+    font-size: 60px;
+}
+button{
+    position: absolute;
+    top: 70%;
+    left: 42%;
+    background-color: rgb(255, 28, 123);
+    border-color: transparent;
+    width: 180px;
+    height: 60px;
+    border-radius: 100px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+button:hover {
+    background-color: #ca2f68;
 }
 
 .content1{
